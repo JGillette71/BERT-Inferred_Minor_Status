@@ -6,4 +6,8 @@ Project Abstract: Automated solutions for data protections have been widely stud
 
 ![project_graphic](https://github.com/JGillette71/BERT-Inferred_Minor_Status/blob/main/Data/bert_fine_tune_experiment.png)
 
-Note: Results may vary. Recommended hyperparameters detailed in Table 4
+Note: Results may vary. Recommended hyperparameters as follows. 
+Max Input 256 (correlates to mean sequence length) 
+Learn Rate 3.00e-05 (of range recommended in original BERT paper (Devlin et al.)
+Epochs 3 (of range recommended in original BERT paper (Devlin et al.)
+Batch Size 4
