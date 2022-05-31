@@ -4,8 +4,8 @@ authors:
 - family-names: "Gillette"
   given-names: "Jason"
   orcid: 
-- family-names: "Sayed Khushal"
-  given-names: "Shah"
+- family-names: "Shah"
+  given-names: "Sayed Khushal"
   orcid: 
 title: "Data Protections for Minors with BERT-Inferred Status"
 version: 1.0.0
